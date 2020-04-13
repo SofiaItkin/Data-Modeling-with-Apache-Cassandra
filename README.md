@@ -1,2 +1,2 @@
 # Data-Modeling-with-Apache-Cassandra
-Model event data to create non-relational data base and ETL pipeline for a music streaming app.
+Extract event data from CSV files to create non-relational data base and ETL pipeline for a music streaming app.
